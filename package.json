@@ -1,0 +1,19 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakeanstey/comp2106-lab3.git"
+  },
+  "author": "Jake Anstey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakeanstey/comp2106-lab3/issues"
+  },
+  "homepage": "https://github.com/jakeanstey/comp2106-lab3#readme"
+}
